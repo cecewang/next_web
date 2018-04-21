@@ -1,0 +1,17 @@
+<svg id="menu" xmlns="http://www.w3.org/2000/svg" viewBox="1759 -1329 321 321">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #57a2d4;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_140" data-name="Rectangle 140" class="cls-1" width="321" height="321" transform="translate(1759 -1329)"/>
+  <rect id="Rectangle_142" data-name="Rectangle 142" class="cls-2" width="33" height="199" transform="translate(1820 -1237) rotate(-90)"/>
+  <rect id="Rectangle_143" data-name="Rectangle 143" class="cls-2" width="33" height="199" transform="translate(1820 -1067) rotate(-90)"/>
+  <rect id="Rectangle_144" data-name="Rectangle 144" class="cls-2" width="33" height="199" transform="translate(1820 -1152) rotate(-90)"/>
+</svg>

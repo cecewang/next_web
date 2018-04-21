@@ -1,0 +1,17 @@
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="1381 -1329 321 321">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #57a2d4;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_140" data-name="Rectangle 140" class="cls-1" width="321" height="321" transform="translate(1381 -1329)"/>
+  <rect id="Rectangle_139" data-name="Rectangle 139" class="cls-2" width="33" height="203" transform="translate(1442 -1270)"/>
+  <rect id="Rectangle_141" data-name="Rectangle 141" class="cls-2" width="33" height="203" transform="translate(1608 -1270)"/>
+  <rect id="Rectangle_142" data-name="Rectangle 142" class="cls-2" width="33" height="199" transform="translate(1442 -1237) rotate(-90)"/>
+</svg>
